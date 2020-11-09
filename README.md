@@ -4,7 +4,7 @@
 
 ## Compatibility
 
-The generated themes can be used in software based on [KTextEditor](https://api.kde.org/frameworks/ktexteditor/html/) like [Kate](https://kate-editor.org) and [KDevelop](https://www.kdevelop.org/), thanks to a [change](https://kate-editor.org/post/2020/2020-09-06-kate-color-themes/) introduced in KDE Frameworks version 5.75.
+The generated themes can be used in software based on [KTextEditor](https://api.kde.org/frameworks/ktexteditor/html/) like [Kate](https://kate-editor.org), [KDevelop](https://www.kdevelop.org/) and [Kile](https://apps.kde.org/en/kile), thanks to a [change](https://kate-editor.org/post/2020/2020-09-06-kate-color-themes/) introduced in KDE Frameworks version 5.75.
 
 ## Building the themes
 
